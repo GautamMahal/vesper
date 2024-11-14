@@ -1,0 +1,8 @@
+body {
+    position: absolute; /* 绝对定位 */
+    inset: 0; /* 充满父元素 */
+    height: 100%; /* 高度 100% */
+    width: 100%; /* 宽度 100% */
+    background-image: radial-gradient(#00000055 1px, transparent 1px); /* 径向渐变 */
+    background-size: 16px 16px; /* 背景图案大小 */
+}
